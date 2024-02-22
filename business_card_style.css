@@ -1,0 +1,33 @@
+business_card_style.css
+body{
+	margin: 40px;
+}
+.card{
+	width: 325px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+	display: flex;
+	justify-content: center;
+	text-align: center;
+
+	padding-top: 10px;
+	padding-bottom: 20px;
+
+	background: #ddebf8;
+	color: black;
+	border-bottom: 3px solid maroon;
+	border-top: 3px solid maroon;
+}
+.photo{
+	width: 150px;
+	margin-left: 0px;
+	padding-top: 10px;
+}
+.details{
+	margin-left: 20px;
+	padding-top: 10px;
+	font-style: normal;
+}
+
+
